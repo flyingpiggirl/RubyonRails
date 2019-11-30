@@ -2,5 +2,4 @@
 
 require_relative 'config/environment'
 
-root to: redirect('/ideas')
 run Rails.application
