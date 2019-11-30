@@ -15,7 +15,10 @@
  */
  footer { margin-top: 100px; }
  table, td, th { vertical-align: middle; border: none; }
- th { border-bottom: 1px solid #DDD; }
+ th { border-bottom: 1px solid #F9A2BC; }
 body {color:#8C64F5;
 background-color: #F9A2BC;
 font-family: monospace;}
+p.subheading{font-size:15px;}
+nav{background-color:#8C64F5;}
+a {color:#8C64F5;}
